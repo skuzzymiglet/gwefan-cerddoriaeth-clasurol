@@ -3,7 +3,5 @@ main:
     url: /posts/
   - title: "Categoriau"
     url: /categories/
-  - title: "Tagiau"
-    url: /tags/
   - title: "Am Hyn"
     url: /about/
