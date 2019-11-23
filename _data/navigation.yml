@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Erthyglon"
     url: /posts/
-  - title: "Categories"
+  - title: "Categoriau"
     url: /categories/
-  - title: "Tags"
+  - title: "Tagiau"
     url: /tags/
-  - title: "About"
+  - title: "Am Hyn"
     url: /about/
