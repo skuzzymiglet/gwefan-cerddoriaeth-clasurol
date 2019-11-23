@@ -1,6 +1,10 @@
 <div class="embed-container">
   <iframe
-      src="https://www.youtube.com/embed/{{ include.id }}"
+          {% if include.end %}
+          src="https://www.youtube.com/embed/{{ include.id }}?start={{ include.start }}&end={{ include.end }}"
+          {% else %}
+          src="https://www.youtube.com/embed/{{ include.id }}?start={{ include.start }}"
+          {% endif %}
       width="700"
       height="480"
       frameborder="0"

@@ -30,8 +30,7 @@ Dwi'n mwynhau chwarae cerddoriaeth achos mae amseroedd yn fy mywyd yn gofiadwy g
 
 ## Y dyfodol
 
-Yn y dyfodol, hoffwn gyrraedd Gradd 8 piano, ffidil ac Elfennau Cerddoriaeth. Ar wahan i hynny, mae yna lawer i ddarganfod galla i wneud: dal ati i wrando i mwy o gerddoriaeth clasurol modern (e.e [Shostakovich, link i'r thing](#)).
+Yn y dyfodol, hoffwn gyrraedd Gradd 8 piano, ffidil ac Elfennau Cerddoriaeth. Ar wahan i hynny, mae yna lawer i ddarganfod galla i wneud: dal ati i wrando i mwy o gerddoriaeth clasurol modern - er enghraifft [Dmitri Shostakovich](2019-11-21-dmitri-shostakovich.md)
 
-## Cyfansoddi
+{% include youtubePlayer.html id="MCxzMYVvHBg" start="0"%}
 
-Mae [erthygl arall am fy mhrofiad cyfansoddi](#) hefyd ar y wefan
