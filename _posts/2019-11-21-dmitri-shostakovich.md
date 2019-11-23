@@ -15,12 +15,10 @@ Roedd Shostakovich yn byw o 1906 i 1975 yn Rwsia/Yr Undeb Sofietaidd. Roedd Stal
 
 Ddarganfyddais Shostakovich yn o iawn mewn fideo arbennig amdano ar YouTube:
 
-https://www.youtube.com/watch?v=MCxzMYVvHBg
+{% include youtubePlayer.html id="MCxzMYVvHBg" start="0"%}
+
 
 Cyn hynny, fe chwaraeais ddarn Gradd 5 ganddo. Ar ol gweld y fideo, ddeallais i'r steil: [mae Shostakovich yn defnyddio swn "amrwd" yn aml](https://youtu.be/MCxzMYVvHBg?t=1020).
 
-(quote gavotte) 
-https://youtu.be/MCxzMYVvHBg?t=1020
-
 Dwi'n hoffi sut mae'n dyfynnu ei waith ei hun a defnyddio elfennau Iddewol i greu neges, ac fel cyfansoddwr, fyddwn wrth fy modd yn gwneud hynny fy hun
-> Written with [StackEdit](https://stackedit.io/).
+
