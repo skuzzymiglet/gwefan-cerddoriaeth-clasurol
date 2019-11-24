@@ -2,15 +2,10 @@
 layout: single
 title:  "CV Cerddorol"
 date:   2019-11-19 07:36:00 +0000
-categories: cv cbcdc astudio
+tags: cv cbcdc astudio
 ---
 
-> _italig_ ddim yn siwr
-
-# "CV"
 Dyma erthygl byr am fy mhrofiad cerddorol
-
-> Mae e bach yn ddiflas, a brolllyd
 
  Rwy wedi bod yn chwarae piano ers _2013_, ac fe wnes i Gradd 1 yn _2014_. Bydda i'n gwneud Gradd 6 ym mis Rhagfyr 2019
 
@@ -30,7 +25,7 @@ Dwi'n mwynhau chwarae cerddoriaeth achos mae amseroedd yn fy mywyd yn gofiadwy g
 
 ## Y dyfodol
 
-Yn y dyfodol, hoffwn gyrraedd Gradd 8 piano, ffidil ac Elfennau Cerddoriaeth. Ar wahan i hynny, mae yna lawer i ddarganfod galla i wneud: dal ati i wrando i mwy o gerddoriaeth clasurol modern - er enghraifft [Dmitri Shostakovich](2019-11-21-dmitri-shostakovich.md)
+Yn y dyfodol, hoffwn gyrraedd Gradd 8 piano, ffidil ac Elfennau Cerddoriaeth. Ar wahan i hynny, mae yna lawer i ddarganfod galla i wneud: dal ati i wrando i mwy o gerddoriaeth clasurol modern - er enghraifft [Dmitri Shostakovich]({% post_url 2019-11-21-dmitri-shostakovich %})
 
 {% include youtubePlayer.html id="MCxzMYVvHBg" start="0"%}
 

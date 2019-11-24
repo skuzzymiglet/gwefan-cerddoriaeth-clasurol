@@ -2,7 +2,7 @@
 layout: single
 title:  "Joseph Haydn"
 date:   2019-11-19 07:36:00 +0000
-categories: clasurol quartet pedwarawd hwngari awstria symffoni
+tags: clasurol quartet pedwarawd hwngari awstria symffoni
 ---
 
 # Joseph Haydn 

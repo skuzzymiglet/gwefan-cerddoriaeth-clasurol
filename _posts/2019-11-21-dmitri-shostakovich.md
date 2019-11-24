@@ -2,7 +2,7 @@
 layout: single
 title:  "Dmitri Shostakovich"
 date:   2019-11-19 07:36:00 +0000
-categories: modern ussr stalin symffoni
+tags: modern ussr stalin symffoni
 ---
 
 
