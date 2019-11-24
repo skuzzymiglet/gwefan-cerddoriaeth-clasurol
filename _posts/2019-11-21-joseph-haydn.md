@@ -5,7 +5,6 @@ date:   2019-11-19 07:36:00 +0000
 tags: clasurol quartet pedwarawd hwngari awstria symffoni
 ---
 
-# Joseph Haydn 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/474px-Joseph_Haydn.jpg)
 
 Roedd Franz Joseph Haydn yn byw o 1732 i 1809. Cafodd ei eni yn Awstria. 
