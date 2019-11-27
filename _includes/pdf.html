@@ -1,0 +1,16 @@
+<script src="bower_components/pdf.js-viewer/pdf.js"></script>
+<link rel="stylesheet" href="bower_components/pdf.js-viewer/viewer.css">
+<div class="pdfjs">
+        <!--#include virtual="bower_components/pdf.js-viewer/viewer.html" --> 
+</div>
+
+<script>
+        // note that the file can also be a Uint8Array if you want to serve binary data
+        var file = '{{ include.url }}'; 
+
+        // This initializes the webviewer, the file may be passed in to it to initialize the viewer with a pdf directly
+        window.PDFJS.webViewerLoad(); 
+
+        // open a file in the viewer
+        window.PDFViewerApplication.open(file);
+</script>
