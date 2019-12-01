@@ -6,6 +6,8 @@ tags: cyfansoddwr clasurol rhamantaidd piano
 ---
 
 ![Portrait by Joseph Karl Stieler, 1820](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/220px-Beethoven.jpg)
+
+
 Roedd Ludwig van Beethoven yn byw o 1770 i 1827 yn Bonn yn yr Almaen. Roedd yn gyfansoddwr a phianydd enwog. 
 
 (google maps)
