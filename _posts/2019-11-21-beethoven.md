@@ -18,6 +18,6 @@ Mae'n enwog iawn am ddod yn fyddar o 1798. Ond fe gyfansoddodd heb oedi ar ôl h
 
 # Barn
 
-
+Mae Beethoven yn gyfansoddwr unigryw ac nid yw'n anodd ei adnabod. Hoffwn wrando i fwy ohono
 
 [^1]: + [https://en.wikipedia.org/wiki/Ludwig_van_Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven) [https://en.wikipedia.org/wiki/List_of_compositions_by_Ludwig_van_Beethoven](https://www.youtube.com/watch?v=ZHC7NvaqWuM)
