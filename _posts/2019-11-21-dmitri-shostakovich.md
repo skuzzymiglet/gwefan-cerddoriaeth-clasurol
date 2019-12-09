@@ -15,8 +15,6 @@ Ddarganfyddais Shostakovich yn o iawn mewn fideo arbennig amdano ar YouTube:
 
 {% include youtubePlayer.html id="MCxzMYVvHBg" start="0"%}
 
-
-
 Cyn hynny, fe chwaraeais ddarn Gradd 5 ganddo. Ar ol gweld y fideo, ddeallais i'r steil: [mae Shostakovich yn defnyddio swn "amrwd" yn aml](https://youtu.be/MCxzMYVvHBg?t=1020).
 
 Dwi'n hoffi sut mae'n dyfynnu ei waith ei hun a defnyddio elfennau Iddewol i greu neges, ac fel cyfansoddwr, fyddwn wrth fy modd yn gwneud hynny fy hun
