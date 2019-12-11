@@ -49,7 +49,7 @@ footer:
   links:
     - label: "Cod"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/skuzzymiglet/gwefan-tg"
+      url: "https://github.com/skuzzymiglet/gwefan-cerddoriaeth-clasurol/"
 
 defaults:
   # _posts
