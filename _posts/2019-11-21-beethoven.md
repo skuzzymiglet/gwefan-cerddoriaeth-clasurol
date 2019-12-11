@@ -10,7 +10,8 @@ tags: cyfansoddwr clasurol rhamantaidd piano
 
 Roedd Ludwig van Beethoven yn byw o 1770 i 1827 yn Bonn yn yr Almaen. Roedd yn gyfansoddwr a phianydd enwog. 
 
-(google maps)
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=11&center=50.7374%2C7.0982&key=AIzaSyBFuc4ydQclXgIhwBFI8SBi_FzZxrmnhEg" allowfullscreen></iframe>
+
 
 Yn ystod ei fywyd, fe gyfansoddodd 9 [symffoni](https://en.wikipedia.org/wiki/Symphony "Symphony"); 5 [concerto piano](https://en.wikipedia.org/wiki/Piano_concerto "Piano concerto"); 1 [concerto fiolin](https://en.wikipedia.org/wiki/Violin_concerto "Violin concerto"); 32 [sonata piano](https://en.wikipedia.org/wiki/Piano_sonata "Piano sonata"); 16 [pedwarawd llinynol](https://en.wikipedia.org/wiki/String_quartet "String quartet"); 2 [wasanaeth](https://en.wikipedia.org/wiki/Mass_(music) "Mass (music)"); ac [opera](https://en.wikipedia.org/wiki/Opera),  _[Fidelio](https://en.wikipedia.org/wiki/Fidelio "Fidelio")_[^1]
 
