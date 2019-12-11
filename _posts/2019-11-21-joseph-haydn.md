@@ -1,4 +1,4 @@
-﻿---
+---
 layout: single
 title:  "Joseph Haydn"
 date:   2019-11-19 07:36:00 +0000
@@ -8,7 +8,9 @@ tags: clasurol quartet pedwarawd hwngari awstria symffoni
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Joseph_Haydn.jpg/474px-Joseph_Haydn.jpg)
 
 Roedd Franz Joseph Haydn yn byw o 1732 i 1809. Cafodd ei eni yn Awstria. 
-(google maps)
+
+<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/view?zoom=14&center=48.0656%2C16.8589&key=AIzaSyBFuc4ydQclXgIhwBFI8SBi_FzZxrmnhEg" allowfullscreen></iframe>
+
 Roedd yn cyfansoddi i'r teulu brenhinol [Esterházy](https://en.wikipedia.org/wiki/Esterh%C3%A1zy "Esterházy"), wedi ynysu, ond ddaeth ei gerddoriaeth yn boblogaidd trwy Ewrop. Gelwir e'n "Dad y [Symffoni](https://en.wikipedia.org/wiki/Symphony "Symphony")" a "Thad y [Pedwarawd Llinynol](https://en.wikipedia.org/wiki/String_quartet "String quartet")"
 
 # Barn
